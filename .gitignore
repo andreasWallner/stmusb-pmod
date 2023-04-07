@@ -1,0 +1,9 @@
+*.csv
+*.kicad_prl
+*.xml
+STUSB-PMOD/
+STUSB-PMOD-backups/
+fp-info-cache
+production
+*.bak
+*.zip
